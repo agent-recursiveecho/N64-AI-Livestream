@@ -1,0 +1,95 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.pfx
+secrets/
+credentials/
+
+# Streaming / media content
+*.mp4
+*.mkv
+*.webm
+*.avi
+*.mov
+*.ts
+*.flv
+*.m3u8
+*.mp3
+*.wav
+*.aac
+*.ogg
+
+# ROMs and game assets
+*.n64
+*.v64
+*.z64
+*.rom
+*.bin
+*.iso
+*.img
+*.srm
+*.sav
+*.save
+
+# Model weights / checkpoints
+*.ckpt
+*.safetensors
+*.pt
+*.pth
+*.bin
+*.gguf
+*.onnx
+models/
+weights/
+checkpoints/
+
+# Logs and captures
+logs/
+*.log
+recordings/
+captures/
+output/
+render/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build artifacts
+dist/
+build/
+.coverage
+htmlcov/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# ComfyUI / AI generated data
+custom_nodes/
+comfyui/
+
+# Local configuration overrides
+*.local
+*.local.*
