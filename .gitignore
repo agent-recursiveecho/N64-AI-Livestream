@@ -5,6 +5,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+N64-AI-Livestream.code-workspace
 
 # Secrets and credentials
 .env
