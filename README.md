@@ -120,6 +120,18 @@ Use the environment baseline notes in the docs directory to record the current m
 - Benchmark before and after each major performance change.
 - Keep the project reproducible by documenting the software stack.
 
+## Verified setup status
+
+The following setup path was verified successfully on this machine:
+
+- Windows 11
+- NVIDIA GeForce RTX 3070 Ti
+- CUDA runtime available via PyTorch
+- ComfyUI Portable installed under the project workspace
+- ComfyUI web interface reachable at http://127.0.0.1:8188
+
+This is the current working baseline for Phase 1.
+
 ## Next step
 
 Begin with the environment and repository baseline in the docs directory, then proceed to the GPU and ComfyUI validation work from Phase 1.

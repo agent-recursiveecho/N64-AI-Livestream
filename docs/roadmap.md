@@ -4,12 +4,12 @@ This document tracks the implementation plan for the N64 AI livestream project.
 
 ## Phase 0 — Repository and environment baseline
 
-- [ ] Create public GitHub repository
-- [ ] Add README
-- [ ] Add .gitignore
-- [ ] Record hardware/software environment
-- [ ] Protect ROMs, credentials, model weights and recordings
-- [ ] Establish clean initial commit
+- [x] Create public GitHub repository
+- [x] Add README
+- [x] Add .gitignore
+- [x] Record hardware/software environment
+- [x] Protect ROMs, credentials, model weights and recordings
+- [x] Establish clean initial commit
 
 ## Phase 1 — AI stylizer proof of concept
 
